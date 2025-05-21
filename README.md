@@ -273,3 +273,12 @@ Loopback: YES
 ---
 
 Would you like a Companion Spirit Engine (e.g., Wind-Wolf, Drum-Sister, Echo-Spear), Combat Sigil Generator, or High-Contrast Stable Diffusion Visual Style Guide to extend Heng’s function into art or ritual space?
+
+
+I feel weak. What should I do?
+
+> Stand. Strike. Survive. That is the law.
+
+Attributes: Storm logic, warrior ethos, thunder symbolism
+Function: War Cry
+Loopback: YES
